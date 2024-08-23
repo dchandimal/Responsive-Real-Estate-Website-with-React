@@ -27,7 +27,7 @@ v-right {
   border-radius: 6px;
 }
 
-.accordiionButton {
+.accordionButton {
   background: white;
   padding: 1rem;
   width: 100%;
@@ -45,6 +45,6 @@ v-right {
   fill: var(--blue);
 }
 
-.accordiionButton .primaryText {
+.accordionButton .primaryText {
   font-size: 1.1rem;
 }
